@@ -55,8 +55,8 @@
 - Orders History
   ![Screenshot 2024-07-13 222950](https://github.com/user-attachments/assets/5ab35a7c-6594-41b0-9513-607c4bb2686d)
 
-Future Enhancements
-Payment Integration: Add online payment gateway.
-Delivery Partner Module: Module for managing deliveries by partners.
-Contact
-Email: 
+## Future Enhancements
+- Payment Integration: Add online payment gateway.
+- Delivery Partner Module: Module for managing deliveries by partners.
+## Contact
+- Email: jabeerkhan924@gmail.com
