@@ -41,7 +41,11 @@
   ![Screenshot 2024-07-13 215207](https://github.com/user-attachments/assets/4ccd5715-f3b8-4855-9f88-a0a958117b67)
   step-3
   ![Screenshot 2024-07-13 215241](https://github.com/user-attachments/assets/d33642bc-da63-478f-b8de-9d793cf0bc12)
-
+- Home Page After Login
+  ![Screenshot 2024-07-13 220357](https://github.com/user-attachments/assets/b4ebaa49-899b-4285-9371-93cef3a94205)
+  ![Screenshot 2024-07-13 220426](https://github.com/user-attachments/assets/e5dca390-cd20-4f3a-8973-0c160872358f)
+- Menu
+  ![Screenshot 2024-07-13 221028](https://github.com/user-attachments/assets/e04c6d80-908e-4a43-bc6b-311f275b6a4d)
 
 Future Enhancements
 Payment Integration: Add online payment gateway.
