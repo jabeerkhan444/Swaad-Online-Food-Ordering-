@@ -46,6 +46,14 @@
   ![Screenshot 2024-07-13 220426](https://github.com/user-attachments/assets/e5dca390-cd20-4f3a-8973-0c160872358f)
 - Menu
   ![Screenshot 2024-07-13 221028](https://github.com/user-attachments/assets/e04c6d80-908e-4a43-bc6b-311f275b6a4d)
+- Cart
+  ![Screenshot 2024-07-13 221209](https://github.com/user-attachments/assets/99550f26-201c-4cb7-9417-1c6a5d626d74)
+- Checkout Page
+  ![Screenshot 2024-07-13 221321](https://github.com/user-attachments/assets/78a8b815-f298-431e-84cd-a002da802754)
+- Order Confirmation
+  ![Screenshot 2024-07-13 222832](https://github.com/user-attachments/assets/c3427a1a-806f-4a2e-b023-68d74f75679a)
+- Orders History
+  ![Screenshot 2024-07-13 222950](https://github.com/user-attachments/assets/5ab35a7c-6594-41b0-9513-607c4bb2686d)
 
 Future Enhancements
 Payment Integration: Add online payment gateway.
