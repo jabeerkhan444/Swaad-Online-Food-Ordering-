@@ -25,7 +25,17 @@
 - Place Orders: Add items to cart and order.
 
 - Home Page
+  </br>
   ![Screenshot 2024-07-13 212901](https://github.com/user-attachments/assets/b381c5a2-ff01-4f2e-a612-c578a0acc0ff)
+
+- Signup or Login
+  </br>
+  ![Screenshot 2024-07-13 214513](https://github.com/user-attachments/assets/56f1268f-3680-4784-88dc-1d94ff2595c9)
+  </br>
+  ![Screenshot 2024-07-13 214530](https://github.com/user-attachments/assets/3f98a020-b823-4b23-b08f-c1ef1dcb4e89)
+
+
+  
 
 Future Enhancements
 Payment Integration: Add online payment gateway.
