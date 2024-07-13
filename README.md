@@ -37,6 +37,10 @@
 - Forgot Password</br>
   step-1
   ![Screenshot 2024-07-13 215030](https://github.com/user-attachments/assets/6f57762e-45b4-45f5-9326-05a31ced8b62)
+  step-2
+  ![Screenshot 2024-07-13 215207](https://github.com/user-attachments/assets/4ccd5715-f3b8-4855-9f88-a0a958117b67)
+  step-3
+  ![Screenshot 2024-07-13 215241](https://github.com/user-attachments/assets/d33642bc-da63-478f-b8de-9d793cf0bc12)
 
 
 Future Enhancements
