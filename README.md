@@ -34,8 +34,10 @@
   
   ![Screenshot 2024-07-13 214530](https://github.com/user-attachments/assets/3f98a020-b823-4b23-b08f-c1ef1dcb4e89)
 
+- Forgot Password</br>
+  step-1
+  ![Screenshot 2024-07-13 215030](https://github.com/user-attachments/assets/6f57762e-45b4-45f5-9326-05a31ced8b62)
 
-  
 
 Future Enhancements
 Payment Integration: Add online payment gateway.
