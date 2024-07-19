@@ -13,7 +13,8 @@
 - Prerequisites: JDK, Dynamic Web Project, MySQL, Apache Tomcat.
 - Database Setup: Create swaad database and run sql/swaad.sql.
 - Configure Database: Update application.properties with MySQL credentials.
-
+## Data Base Tables
+- 
 ## Running the Application
 - Start Server: Start Tomcat server.
 - Access Application: Navigate to http://localhost:8080/swaad.
